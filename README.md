@@ -2,4 +2,4 @@
 
 chmod +x fileName.sh
 <br>
-./fileName.ch
+./fileName.sh
